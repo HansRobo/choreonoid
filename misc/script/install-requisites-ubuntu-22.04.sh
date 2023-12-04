@@ -31,4 +31,5 @@ libfcl-dev \
 libpulse-dev \
 libsndfile1-dev \
 libgstreamer1.0-dev \
+libunwind-dev \
 libgstreamer-plugins-base1.0-dev
